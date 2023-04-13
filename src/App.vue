@@ -10,6 +10,9 @@
     <div class="box-right">
       <RouterView></RouterView>
     </div>
+    <div>
+      
+    </div>
   </div>
 </template>
 
