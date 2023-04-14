@@ -11,7 +11,7 @@
       <RouterView></RouterView>
     </div>
     <div>
-      
+      1
     </div>
   </div>
 </template>
