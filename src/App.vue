@@ -11,7 +11,7 @@
       <RouterView></RouterView>
     </div>
     <div>
-      1
+      23
     </div>
   </div>
 </template>
